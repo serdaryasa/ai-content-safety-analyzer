@@ -17,3 +17,6 @@ Bu proje, web tabanlı metinlerin veya içeriklerin yapay zeka (LLM/ChatGPT vb.)
 1. Gerekli kütüphaneleri bilgisayarınıza yükleyin:
    ```bash
    pip install -r requirements.txt
+2. Web uygulamasını yerel sunucuda başlatın:
+   ```bash
+   streamlit run app.py
